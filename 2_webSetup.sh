@@ -1,3 +1,4 @@
+
 #!/bin/bash
 
 
@@ -48,5 +49,5 @@ echo "###############################################"
 sudo systemctl status httpd
 
 ls /var/www/html
-
+#update bash_02 17.09.23
 
