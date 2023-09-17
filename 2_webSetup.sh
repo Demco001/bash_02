@@ -50,4 +50,4 @@ sudo systemctl status httpd
 
 ls /var/www/html
 #update bash_02 17.09.23
-
+#update again today 17.09.23 - 16:17
